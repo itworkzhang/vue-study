@@ -2,7 +2,7 @@ module.exports = {
   pages: {
     index: {
       //入口
-      entry: 'src/main.js',
+      entry: '30_src_路由的基本使用/main.js',
     },
   },
 	lintOnSave:false, //关闭语法检查
